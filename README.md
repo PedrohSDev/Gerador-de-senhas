@@ -14,4 +14,4 @@ Ao clicar no botão "Gerar senha", é chamado o método gerar_senha, que utiliza
 
 <a href = "mailto:contatopedrohsdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/pedro-silva-1032a7243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-### ✅ Estou totalmente aberto à sujestões de melhorias e críticas construtivas! 😉
+### ✅ Sinta-se à vontade para entrar em contato, estou totalmente aberto à sugestões de melhorias e críticas construtivas!
