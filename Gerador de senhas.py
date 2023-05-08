@@ -58,7 +58,7 @@ class PassGen:
         msg['Subject'] = "Gerador de senhas - Sua senha:"
         msg['From'] = 'pythonpedrohsdev@gmail.com'
         msg['To'] = usuario
-        password = b'cclkuuusjdrmyfgg'
+        password = b'pauvmoowzyslbigs'
         msg.add_header('Content-Type', 'text/html')
         msg.set_payload(corpo_email)
 
