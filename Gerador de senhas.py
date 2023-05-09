@@ -52,7 +52,9 @@ class PassGen:
     def enviar_email(self, nova_senha, usuario, site):
         corpo_email = f"""
         <p>Informações:</p>
-        <p>Site: ({site})   Senha gerada: {nova_senha}</p>
+        <p>Site: {site} </p>
+        <p>Senha gerada: {nova_senha}</p>
+        
         """
         msg = email.message.Message()
         msg['Subject'] = "Gerador de senhas - Sua senha:"
